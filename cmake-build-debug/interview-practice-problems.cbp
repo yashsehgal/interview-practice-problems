@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/yashs/Desktop/interview-practice-problems/algorithms/BinarySearch.h">
+			<Option target="interview-practice-problems"/>
+		</Unit>
+		<Unit filename="C:/Users/yashs/Desktop/interview-practice-problems/datafile-handling/SearchTextInDatafile.h">
+			<Option target="interview-practice-problems"/>
+		</Unit>
 		<Unit filename="C:/Users/yashs/Desktop/interview-practice-problems/main.cpp">
 			<Option target="interview-practice-problems"/>
 		</Unit>
