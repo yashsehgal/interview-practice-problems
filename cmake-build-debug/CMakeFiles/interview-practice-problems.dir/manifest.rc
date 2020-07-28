@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/yashs/Desktop/interview-practice-problems/cmake-build-debug/CMakeFiles/interview-practice-problems.dir/embed.manifest"

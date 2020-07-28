@@ -5,7 +5,7 @@ class LinearSearch {
   public:
   static unsigned int searchElement(int * arr, int size, int number) {
     bool flag = false;
-    for (unsigned int count = 0; count < size; count++) {
+    for (int count = 0; count < size; count++) {
       if (arr[count] == number) {
         flag = true;
         return (count + 1);   // returning the position value (index + 1)
