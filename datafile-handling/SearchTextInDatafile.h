@@ -13,7 +13,7 @@ class SearchTextInDatafile {
 public:
     static bool searchText(const char * BufferString) {
         std::ifstream openFile;
-        openFile.open("sample-file.txt", std::in | ios::bin);
+        openFile.open("sample-file.txt");
         // checking if the file is open or not
         if (!openFile) std::cout << "file is unable to open" << std::endl;
         else while (openFile.eof()) {

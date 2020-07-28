@@ -3,3 +3,11 @@
 //
 
 #include "algorithms/LinearSearch.h"
+#include "algorithms/BinarySearch.h"
+#include "datafile-handling/SearchTextInDatafile.h"
+
+
+int main() {
+  // .cpp main file - to support test header modules
+  return 0;
+}
