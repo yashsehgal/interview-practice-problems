@@ -1,0 +1,9 @@
+#ifndef _INTERVIEW_PRACTICE_PROBLEMS__PROGRAMS__LENGTH_
+#define _INTERVIEW_PRACTICE_PROBLEMS__PROGRAMS__LENGTH_
+
+class Length {
+  public:
+  int getLength(const char *); 
+};
+
+#endif // _INTERVIEW_PRACTICE_PROBLEMS__PROGRAMS__LENGTH_
