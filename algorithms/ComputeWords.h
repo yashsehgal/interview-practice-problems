@@ -1,0 +1,9 @@
+#ifndef _INTERVIEW_PRACTICE_PROBLEMS__ALGORITHMS__COMPUTE_WORDS_
+#define _INTERVIEW_PRACTICE_PROBLEMS__ALGORITHMS__COMPUTE_WORDS_
+
+class ComputeWords {
+  public:
+  static int computeWordCount(const char *);
+};
+
+#endif // _INTERVIEW_PRACTICE_PROBLEMS__ALGORITHMS__COMPUTE_WORDS_
